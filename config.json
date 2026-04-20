@@ -1,0 +1,6 @@
+{
+    "data_path": "iris.csv",
+    "model_path": "./models",
+    "max_models": 10,
+    "runtime": 60
+}
